@@ -4,8 +4,8 @@
 
 ## Progress: 
 
-- [ ] Lecture 1: Getting started with SwiftUI 🔄
-- [ ] Lecture 2: Learning more about SwiftUI
+- [x] Lecture 1: Getting started with SwiftUI - 100% Completed
+- [ ] Lecture 2: Learning more about SwiftUI 🔄
 - [ ] Lecture 3: MVVM and the Swift type system
 - [ ] Lecture 4: Memorize Game Logic
 - [ ] Lecture 5: Properties Layout @ViewBuilder
