@@ -118,4 +118,4 @@ LazyVGrid(columns: [GridItem(.adaptive(minimum: 65))]) {
 ```
 
 ## Screenshots:
-<!-- ![App-Screenshot](documentation/1.gif) -->
+![App-Screenshot](documentation/1.gif)
