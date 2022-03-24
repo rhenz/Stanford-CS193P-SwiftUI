@@ -7,10 +7,10 @@
 - [x] Lecture 1: Getting started with SwiftUI - 100% Completed
 
 - [x] Lecture 2: Learning more about SwiftUI - 100% Completed
-- [ ] Lecture 2: Reading Assignment #1- 🔄
-- [ ] Lecture 2: Programming Assignment #1 - 🔄
+- [x] Lecture 2: Reading Assignment #1- 100% Completed
+- [x] Lecture 2: Programming Assignment #1 - 100% Completed
 
-- [ ] Lecture 3: MVVM and the Swift type system
+- [ ] Lecture 3: MVVM and the Swift type system 🔄
 
 - [ ] Lecture 4: Memorize Game Logic
 - [ ] Lecture 4: Reading Assignment #2
