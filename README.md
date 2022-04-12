@@ -10,11 +10,11 @@
 - [x] Lecture 2: Reading Assignment #1- 100% Completed
 - [x] Lecture 2: Programming Assignment #1 - 100% Completed
 
-- [x] Lecture 3: MVVM and the Swift type system 100% Completed 🔄
+- [x] Lecture 3: MVVM and the Swift type system 100% Completed
 
-- [ ] Lecture 4: Memorize Game Logic 🔄
-- [ ] Lecture 4: Reading Assignment #2
-- [ ] Lecture 4: Programming Assignment #2
+- [x] Lecture 4: Memorize Game Logic - 100% Completed
+- [ ] Lecture 4: Reading Assignment #2 - 🔄
+- [ ] Lecture 4: Programming Assignment #2 - 🔄
 
 - [ ] Lecture 5: Properties Layout @ViewBuilder
 
