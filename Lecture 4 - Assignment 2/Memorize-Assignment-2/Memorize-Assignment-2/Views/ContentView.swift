@@ -30,7 +30,6 @@ struct ContentView: View {
             .toolbar {
                 ToolbarItem(placement: .primaryAction) {
                     Button {
-                        // Start new game with a random theme
                         viewModel.newGame()
                     } label: {
                         Text("New Game")
@@ -42,7 +41,6 @@ struct ContentView: View {
                 }
             }
         }
-        
     }
 }
 
