@@ -18,7 +18,7 @@
 
 - [x] Lecture 5: Properties Layout @ViewBuilder - 100% Completed
 
-- [ ] Lecture 6: Protocols Shapes 🔄 - 31% 
+- [ ] Lecture 6: Protocols Shapes 🔄 - 63% 
 - [ ] Lecture 6: Reading Assignment #3
 - [ ] Lecture 6: Programming Assignment #3
 
