@@ -2,7 +2,7 @@
 
 [Link to the course](https://cs193p.sites.stanford.edu)
 
-## Progress:
+## Progress: 40% Completed
 
 - [x] Lecture 1: Getting started with SwiftUI - 100% Completed
 
@@ -18,9 +18,9 @@
 
 - [x] Lecture 5: Properties Layout @ViewBuilder - 100% Completed
 
-- [ ] Lecture 6: Protocols Shapes 🔄 - 63% 
-- [ ] Lecture 6: Reading Assignment #3
-- [ ] Lecture 6: Programming Assignment #3
+- [x] Lecture 6: Protocols Shapes - 100% Completed 
+- [ ] Lecture 6: Reading Assignment #3 🔄
+- [ ] Lecture 6: Programming Assignment #3 🔄
 
 - [ ] Lecture 7: ViewModifier Animation
 
@@ -41,3 +41,5 @@
 - [ ] Lecture 14: Document Architecture
 - [ ] Lecture 15: UIKit Integration
 - [ ] Lecture 16: Multiplatform (macOS + iOS)
+
+
